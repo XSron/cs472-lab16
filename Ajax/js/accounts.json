@@ -1,0 +1,9 @@
+[{
+    "accountNo": "01-980-0001",
+    "customerName": "James H. Karvill",
+    "typeOfAccount": "Savings"
+}, {
+    "accountNo": "01-980-0002",
+    "customerName": "Anna Hernandez-Diaz",
+    "typeOfAccount": "Checking"
+}]
